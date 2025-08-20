@@ -29,3 +29,8 @@
 
 
 <img src="ml7.png">
+
+
+### forecasting understanding 
+
+<img src="ml8.png">
