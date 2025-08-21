@@ -1,0 +1,12 @@
+[2025-07-15] Task A delayed due to vendor shipment.
+[2025-07-16] Code review backlog piling up – only 1 reviewer available this week.
+[2025-07-18] Integration testing blocked – missing API keys from partner team.
+[2025-07-19] Database migration failed in staging due to schema mismatch.
+[2025-07-20] Resource shortage: only 2 out of 5 engineers available for Sprint 3.
+[2025-07-21] Critical bug found in payment module – high priority fix required.
+[2025-07-22] UI design assets delayed from design team – impacting front-end work.
+[2025-07-23] Security review pending – compliance deadline in 5 days.
+[2025-07-24] Unexpected server downtime caused deployment rollback.
+[2025-07-25] Dependency on third-party library update not resolved – feature blocked.
+[2025-07-26] Performance tests show latency above SLA – optimization needed.
+[2025-07-27] Customer feedback indicates gaps in reporting module – change requests incoming.

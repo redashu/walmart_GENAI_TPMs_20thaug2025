@@ -36,3 +36,10 @@ Set up Kubernetes cluster Deploy backend services (depends on Kubernetes cluster
 Deploy frontend web app (depends on frontend + backend deployed)
 
 ```
+
+## AI based Risk Identification process {copilot + openAI}
+
+<img src="risk1.png">
+
+
+
