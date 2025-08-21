@@ -43,3 +43,17 @@ Deploy frontend web app (depends on frontend + backend deployed)
 
 
 
+### prompt to copilot
+
+```
+--act as data parser and do the needfull, use above data to parse below info logs to structure format (detect , delay,block,shortage)
+
+```
+
+### collect output  and ask to any openai reasoning model 
+# O3 : 
+```
+==> use above data and answer my queries
+
+--scan this project logs and identify top risks . suggest mitigation strategy for each risk
+```
