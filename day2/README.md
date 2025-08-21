@@ -20,3 +20,19 @@
 ```
 
 # can use copilot -- prompt  (tasks for prompting)
+
+
+## project description -- 
+
+```
+Build cart service API Build payment gateway integration (depends on cart service API) Implement fraud detection (depends on payment gateway integration) 
+Redesign checkout UI Integrate checkout UI with cart service API (depends on cart service API) 
+Add order confirmation page (depends on payment gateway integration) 
+Collect transaction logs (depends on payment gateway integration) 
+Build sales forecasting pipeline (depends on transaction logs) 
+Write unit tests for cart service API (depends on cart service API) 
+Perform integration testing (depends on frontend + backend APIs ready) 
+Set up Kubernetes cluster Deploy backend services (depends on Kubernetes cluster + backend APIs ready) 
+Deploy frontend web app (depends on frontend + backend deployed)
+
+```
