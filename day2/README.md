@@ -19,4 +19,4 @@
 
 ```
 
-# can use copilot -- prompt 
+# can use copilot -- prompt  (tasks for prompting)
