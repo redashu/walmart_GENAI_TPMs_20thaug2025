@@ -4,3 +4,7 @@
 
 <img src="rev1.png">
 
+## Understanding MECE tree Framework
+
+<img src="mece1.png">
+
