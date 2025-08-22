@@ -8,3 +8,6 @@
 
 <img src="mece1.png">
 
+## SCQA --the effective communication framework 
+
+<img src="scqa.png">
